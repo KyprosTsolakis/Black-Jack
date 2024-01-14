@@ -1,0 +1,4 @@
+﻿  BlackJackGame31.cpp
+C:\Users\ADMIN\Desktop\programming c++\BlackJackGame31\BlackJackGame31\BlackJackGame31.cpp(133,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ADMIN\Desktop\programming c++\BlackJackGame31\BlackJackGame31\BlackJackGame31.cpp(360,10): warning C4129: '-': unrecognized character escape sequence
+  BlackJackGame31.vcxproj -> C:\Users\ADMIN\Desktop\programming c++\BlackJackGame31\Debug\BlackJackGame31.exe
